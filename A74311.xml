@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the present examining and stating the accompts of the officers and soldiers now in the Parliaments service within this nation. Die Lunæ 28 Maii, 1649. Ordered by the Commons assembled in Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliament'.</title>
+            <title>Laws, etc. 1649</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74311</idno>
+            <idno type="STC">Thomason E1060_33</idno>
+            <idno type="STC">ESTC R208607</idno>
+            <idno type="EEBO-CITATION">99867545</idno>
+            <idno type="PROQUEST">99867545</idno>
+            <idno type="VID">119861</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119861)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the present examining and stating the accompts of the officers and soldiers now in the Parliaments service within this nation. Die Lunæ 28 Maii, 1649. Ordered by the Commons assembled in Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliament'.</title>
+                  <title>Laws, etc. 1649</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 263-272  [i.e. 12] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Husband, printer to the Honorable House of Commons, and are to be sold at his shop in Fleetstreet, at the sign of the Golden-Dragon, near the Inner-Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 31. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On Z3 [i.e. Z2]r: the last word of first line of text: 'England'; first word of line below initial: 'or'; last word of last full line of text: 'or'.</note>
+                  <note>Also issued as part of a through-paged folio set with a table for the entire set added.</note>
+                  <note>Ornament on t.p; initial letter; text in black letter.</note>
+                  <note>Signatures: Z-3A² .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Pay, allowances, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119861:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <p>AN ACT For the preſent examining and ſtating the ACCOMPTS OF THE Officers and Soldiers NOW In the Parliaments Service within this Nation.</p>
+            <figure>
+               <figDesc>Anglo-Irish Protectorate blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Lunae, 28 Maii, 1649.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Commons aſſembled in Parliament, That this Act be forthwith printed and publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliament'.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Com<g ref="char:EOLhyphen"/>mons, and are to be ſold at his Shop in Fleetſtreet, at the Sign of the Golden-Dragon, near the Inner-Temple, <hi>May</hi> 31. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act">
+            <pb facs="tcp:119861:2"/>
+            <!-- PDF PAGE 80 -->
+            <pb n="263" facs="tcp:119861:2"/>
+            <!-- PDF PAGE 80 -->
+            <head>AN ACT FOR The preſent Examining and Stating the Accompts of the Officers and Soldiers now in the Parliaments ſervice within this NATION.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Commons of <hi>England</hi> aſſembled in Parliament, taking into conſideration the Arrears of pay to Of<g ref="char:EOLhyphen"/>ficers and Soldiers now in their ſervice in this Na<g ref="char:EOLhyphen"/>tion, within the Eſtabliſh<g ref="char:EOLhyphen"/>ment for <hi>England</hi> or <hi>Ireland,</hi> due for their ſervice in any Army, or Gariſon, or under any General or Commander in the ſer<g ref="char:EOLhyphen"/>vice of the Parliament within this Nation (other then in the late new Model under the now Lord <hi>Fairfax</hi>) and being reſolved to have their Accompts for ſuch ſervices forthwith examined and ſtated, and Debenters, with viſible ſecurity given for ſuch Arrears (as well as for thoſe under the ſaid new Model, which are already provided for;) and conſidering, That the ſaid Officers and Soldiers, being many of them engaged for the ſervice of <hi>Ireland,</hi> and the reſt attending daily ſervice within this Nation, cannot without pre<g ref="char:EOLhyphen"/>judice to the publique, leave their Charges or
+<pb n="264" facs="tcp:119861:3"/>
+               <!-- PDF PAGE 81 -->Colours, to proſecute and perfect ſeverally the ſtating of their accompts before the Committees or Commiſsioners authorized for ſtating the Ac<g ref="char:EOLhyphen"/>compts of the Soldiery; and alſo conſidering the delay that would be to the diſpatch thereof in any other way then as hereafter followeth, Do therefore enact and ordain, and be it Enacted and Ordained by this preſent Parliament, and by authority thereof, That the Accompts of the ſaid Officers and Soldiers, for any ſuch Arrears as aforeſaid (not ſtated and certified heretofore by Order or Direction of Parliament) ſhall be forthwith taken, examined, ſtated and certified by the ſeveral perſons, and in the maner and form hereafter expreſſed; that is to ſay, For the Forces formed in Regiments; the Field Officers of the reſpective Regiments, or any one of them, with the reſpective Captains, or chief Officers preſent of their ſeveral Troops or Companies, ſhall take, examine, and ſtate the ſaid Accompts, and certifie the ſaid Arrears of the inferior Of<g ref="char:EOLhyphen"/>ficers and Soldiers of the ſeveral Troops or Companies under them reſpectively; and for the Captains, or preſent chief Officers of the ſeve<g ref="char:EOLhyphen"/>ral Troops and Companies, and the Staff-Officers of ſuch of the ſaid Regiments as are deſigned, and do engage to go for <hi>Ireland,</hi> the reſpective Field-Officers, or any two of them, ſhall take, examine, and ſtate their Accompts, and certifie their ſaid Arrears; and the Colonels ſhall do the like for the Field-Officers under them of their reſpective Regiments: And for ſuch Officers, and others of the Train of Ar<g ref="char:EOLhyphen"/>tillery as go for <hi>Ireland,</hi> the Lieutenant General, and Comptroller of the Train, ſhall examine and ſtate their ſaid accompts, and certifie their ſaid arrears; and for ſuch of the General Offi<g ref="char:EOLhyphen"/>cers
+<pb n="265" facs="tcp:119861:3"/>
+               <!-- PDF PAGE 81 -->and Staff-Officers of the Army as go for <hi>Ireland,</hi> the Lord General, or ſuch other perſons as he ſhall appoint and intruſt for that purpoſe, ſhall examine and ſtate their ſaid accompts, and the Lord General ſhall certifie their ſaid arrears; But for ſuch of the ſaid Forces as go not for <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> the ſaid accompts of all the Captains, or preſent chief Officers of the ſeveral Troops and Companies, and of the Field and Staff-officers of the ſeveral Regiments, as alſo of the Train-Officers, and the General Officers, and Staff-officers of the Army, and alſo the accompts of the Colonels of thoſe Regiments that go for <hi>Ireland,</hi> ſhall be taken, examined and ſtated, and De<g ref="char:EOLhyphen"/>benters ſhall be given them for their ſaid arrears by the Committee for the Army, or by ſuch other perſons as are or ſhall be by them, or otherwiſe by authority of Parliament appointed thereun<g ref="char:EOLhyphen"/>to. And for the more certain and effectual per<g ref="char:EOLhyphen"/>formance of this work, Be it further Enacted by the authority aforeſaid, That every perſon claiming any ſuch arrears as aforeſaid, and de<g ref="char:EOLhyphen"/>ſiring to have his accompts ſtated, and certified for the ſame, ſhall produce for every ſuch arrear ſo claimed reſpectively, a certificate under the Hand and Seal of his Captain or Lieutenant, or ſome other Commiſsion-Officer ſuperior to himſelf, or (in caſe of Service in particular Counties) then under the hands of two or more of that Committee, under whom he pretends ſuch arrear became due reſpectively; expreſsing in what Troop or Company, and of what Regi<g ref="char:EOLhyphen"/>ment, or in what Gariſon or Counties, and for what ſpace of time, and in what year or years of our Lord ſuch his Service was, and to the beſt of their knowledge what pay he recei<g ref="char:EOLhyphen"/>ved for the ſame, or what remained due to
+<pb n="266" facs="tcp:119861:4"/>
+               <!-- PDF PAGE 82 -->him in arrear at his diſcharge; and alſo ſhall make Oath, that he hath not uſed, nor is privy to any fraud, deceit, or indirect dealing, in or for the framing or procuring of ſuch certi<g ref="char:EOLhyphen"/>ficate, and that to the beſt of his knowledge ſuch Certificate is true and juſt; and that he hath not otherwiſe had his Accompts ſtated, or any De<g ref="char:EOLhyphen"/>benter given before for the ſame Arrear ſo claim<g ref="char:EOLhyphen"/>ed, other then what he ſhall then produce, ac<g ref="char:EOLhyphen"/>knowledge and deliver in to the ſaid Officers; and he ſhall alſo upon the ſame Oath, diſcover whether he or any other for him to his know<g ref="char:EOLhyphen"/>ledge, hath at any time received any moneys, or any thing elſe ſince his diſcharge from that ſer<g ref="char:EOLhyphen"/>vice, toward ſatisfaction of the Arrears claim<g ref="char:EOLhyphen"/>ed thereupon, and how much hath been ſo re<g ref="char:EOLhyphen"/>ceived; and in the ſame Oath he ſhall alſo diſ<g ref="char:EOLhyphen"/>cover, whether he hath at any time received any other money or goods, for or under pretence of the publique ſervice, for which to his beſt knowledge or remembrance he ought to be, and yet remain<g ref="char:EOLhyphen"/>eth accomptable to the State, and for ſuch mo<g ref="char:EOLhyphen"/>ney or goods (if he hath not already accompted) he ſhall then diſcharge himſelf by a true ac<g ref="char:EOLhyphen"/>compt; to the truth of which accompt, he ſhall make oath in ſuch form as hereafter follow<g ref="char:EOLhyphen"/>eth; <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>I <hi>A. B.</hi> do ſwear, That the Accompt by me given in at this time, is true and juſt, to the beſt of my knowledge and remembrance, and that therein I have not wittingly concealed any money or goods, which to my beſt remem<g ref="char:EOLhyphen"/>brance I have received or taken for the uſe of the Parlia<g ref="char:EOLhyphen"/>ment or Commonwealth, for which I am juſtly accompat<g ref="char:EOLhyphen"/>ble to the State; neither have I to my beſt remembrance wilfully imbezelled, or to my private uſe or benefit, con<g ref="char:EOLhyphen"/>verted any ſuch money or goods received by me for the
+<pb n="267" facs="tcp:119861:4"/>
+                  <!-- PDF PAGE 82 -->uſe of the publique, and for which I ſtand accomptable as aforeſaid, other then ſuch, or to ſuch value as I have charged my ſelf with in my ſaid Accompt. <hi>So help me God.</hi>
+               </hi>
+            </p>
+            <p>And ſuch certificates, together with ſuch oathes of the parties producing the ſame, and claiming arrears thereupon as aforeſaid, ſhall be a ſufficient ground for the Officers and others authorized as aforeſaid, to proceed upon in the ſtating of all and every the ſaid accompts reſpectively, and in the certifying of the arrears thereupon as is hereafter directed: And becauſe it may poſsibly fall out in ſome caſes, That ſuch certificates as aforeſaid cannot be had or pro<g ref="char:EOLhyphen"/>duced, by reaſon of the death of ſome, or refuſal of other Officers from whom ſuch certificates ſhould be had, or by their being diſabled to make ſuch Certificates, either through their defection from the Parliaments Cauſe, or their departure and abſence out of the Land, or elſe by reaſon of the loſs of Muſter-Rolls or Certificates through the many caſualties of War; in ſuch caſes the Field-Officers, and others intruſted with the ſtating of accompts as aforeſaid reſpe<g ref="char:EOLhyphen"/>ctively, after ſtrict enquiry into the truth of the matter, and taking the Oath of the party con<g ref="char:EOLhyphen"/>cerned, that his caſe is ſuch; and after examina<g ref="char:EOLhyphen"/>tion of him, or any other upon Oath, to what other circumſtances they ſhall think fit to ſatiſ<g ref="char:EOLhyphen"/>fie themſelves, that the caſe is ſuch, ſhall or may admit the Oath of the party, and (if he be en<g ref="char:EOLhyphen"/>gaged for <hi>Ireland</hi>) of one witneſs, or otherwiſe of two lawful witneſſes, taken either before the ſaid Officers themſelves, or before any Iuſtice of Peace or Committee, and from him or them certified concerning the time of ſuch parties Ser<g ref="char:EOLhyphen"/>vice in any Gariſon or other Army then the
+<pb n="268" facs="tcp:119861:5"/>
+               <!-- PDF PAGE 83 -->ſaid new Model; and concerning the arrear due to him for the ſame, as a ſufficient evidence to proceed upon, and ſtate his accompts, and certifie his arrears for the ſame, the party himſelf ma<g ref="char:EOLhyphen"/>king Oath alſo to ſuch other queſtions &amp; things concerning the truth of his accompt, as is afore in other caſes directed; and for the better diſco<g ref="char:EOLhyphen"/>very of the truth in or concerning any ſuch ac<g ref="char:EOLhyphen"/>compts as aforeſaid, the ſaid Field-officers, and others intruſted in this ſervice, are hereby autho<g ref="char:EOLhyphen"/>rized, to adminiſter an Oath or Oathes to all and every perſon and perſons, with whom they ſhall have to do, in relation to the ſtating of any the accompts in all ſuch caſes, and concerning ſuch matters or things where any Oath is re<g ref="char:EOLhyphen"/>quired or directed as aforeſaid: and all Officers of War, Muſter maſters, Secretaries, Auditors, Treaſurers, accomptants, &amp; other perſons what<g ref="char:EOLhyphen"/>ſoever, that now have, or formerly had relation to the affairs of the late Wars, are hereby re<g ref="char:EOLhyphen"/>quired, upon requeſt of any Officer or Soldier concerned, and addreſſing himſelf to them, or upon requeſt under the hand of any the Field-Officers or others intruſted as aforeſaid, ſhall teſtifie under their Hands and Seals according to their beſt knowledge, any thing within their cognizance that may further or conduce to the better aſcertaining of the ſaid accompts, or any of them. And it is further Enacted by the au<g ref="char:EOLhyphen"/>thority aforeſaid, That after the ſaid accompts, or any of them ſo taken and examined as afore<g ref="char:EOLhyphen"/>ſaid, the reſpective Field-officers, and others in<g ref="char:EOLhyphen"/>truſted therewith, ſhall ſtate the ſaid accompts ſeverally, making deductions for what the reſpective accompts ſhall appear to be charge<g ref="char:EOLhyphen"/>able with, towards ſatisfaction of the ſeveal ar<g ref="char:EOLhyphen"/>rears ſo claimed; and alſo defalkation for Free-quarter,
+<pb n="269" facs="tcp:119861:5"/>
+               <!-- PDF PAGE 83 -->according to the Inſtructions pre<g ref="char:EOLhyphen"/>ſcribed by Ordinance of Parliament, bearing date the <hi>24</hi> of <hi>December, 1647.</hi> and ſhall thereupon make computation of what remaineth in arrear to any ſuch Officer or Soldier, for any ſuch ſer<g ref="char:EOLhyphen"/>vice as aforeſaid, ſeverally; and upon and ac<g ref="char:EOLhyphen"/>cording to the accompts ſo ſtated, ſhall make a liſt or liſts of the names of the ſeveral Officers and Soldiers, whoſe accompts they have ſo ſtated; <hi>viz.</hi> One liſt of ſuch as were in actual ſervice in the ſame Troop or Company, at the time of disbanding Supernumeraries in the year <hi>1647.</hi> another of ſuch as were in ſervice at the ſame time, in any other Troop or Company (if there be any ſuch) expreſsing in what Troop, or Company and Regiment any of them then were; and another liſt of ſuch as were not in actual ſervice at that time, but now are (if any ſuch be) and in each liſt expreſsing upon every mans name, for the arrear of every or any ſuch ſervice, claimed as aforeſaid ſeverally, what Army or Gariſon, and in whoſe Troop or Com<g ref="char:EOLhyphen"/>pany, and of what Regiment (if it were in Re<g ref="char:EOLhyphen"/>giment) and in what capacity, and for what ſpace of time, and in what year or years of our Lord ſuch ſervice was in, the ſum of pay due for the ſame, what pay he received in that ſervice before his diſcharge, what other deducti<g ref="char:EOLhyphen"/>ons are to be made for Free-quarter, or other<g ref="char:EOLhyphen"/>wiſe, and what clear arrear remaineth due thereupon reſpectively; and the liſt or liſts ſo made, ſhall certifie under their hands and ſeals, and the ſame ſealed up together; as alſo the ſe<g ref="char:EOLhyphen"/>veral Certificates, Accompts, Oathes, Exami<g ref="char:EOLhyphen"/>nations, and other Evidences whereupon the ſame were grounded (being filed together in or<g ref="char:EOLhyphen"/>der, and ſealed up) ſhall return and ſend by the
+<pb n="270" facs="tcp:119861:6"/>
+               <!-- PDF PAGE 84 -->hands of ſome Commiſſion-Officer or Officers under their reſpective commands, unto the Committee for the Army, or elſe to ſuch other Committee, Commiſſioners or Truſtees, as be<g ref="char:EOLhyphen"/>fore return of the ſaid liſts and accompts ſhall by authority of Parliament be appointed and intruſted to receive the ſame; who according to the Computations in the ſaid liſts (looking into them, that they be not miſtaken, and that the defalkations for Free-quarter be duly made, ac<g ref="char:EOLhyphen"/>cording to the ſaid Inſtructions) ſhall give De<g ref="char:EOLhyphen"/>benters for the ſaid clear Arrears to every ſuch Officer and Soldier reſpectively (in ſuch form as the Committee for the Army have uſed for others, or as by the authority aforeſaid ſhall be<g ref="char:EOLhyphen"/>fore the ſaid returns be further appointed) which ſhall be good in Law, as Obligations of the Commonwealth, and be ſatisfied out of the ſe<g ref="char:EOLhyphen"/>curities aſſigned, or to be further ſetled for the ſame by the Parliament. Provided always, that no Officer or Soldier who hath been caſhiered by ſentence of a Court of War, and was by ſuch ſen<g ref="char:EOLhyphen"/>tence to loſe his Arrears, ſhall have any benefit by this Act, or of any ſecurity given for ſuch Arrears. Provided alſo, That none who have deſerted their Colours in that Service for which they claim any ſuch arrear, without licenſe and due diſcharge from ſome Commiſsion-Officer under whom they ſerved reſpectively, ſhall have any benefit of this Act, or of any ſecurity as to the Arrears claimed in that particular Service. And it is alſo Provided and Enacted by the au<g ref="char:EOLhyphen"/>thority aforeſaid, That no Officer or Soldier whatſoever, who have revolted from the Par<g ref="char:EOLhyphen"/>liament, and turned to the Enemy, or after any disbanding or diſcharge from the Parliaments Service, went to ſerve the Enemy againſt the
+<pb n="271" facs="tcp:119861:6"/>
+               <!-- PDF PAGE 84 -->Parliament, ſhall have any benefit of this Act, or of any ſecurity at all for any their arrears, but ſhall wholly loſe the ſame. Provided alſo, That no Certificate from any officer that hath been caſhiered for falſe Muſters, Plundering the Countrey, or any Cozenage to the State, or that hath revolted from the Parliament, and enga<g ref="char:EOLhyphen"/>ged in the Enemies Service after he had ſerved the Parliament, ſhall be accepted as ſufficient evidence for any Arrear claimed thereupon, un<g ref="char:EOLhyphen"/>leſs the certificate were made before ſuch caſhier<g ref="char:EOLhyphen"/>ing or revolt. Provided alſo, and it is further en<g ref="char:EOLhyphen"/>acted, That if any Officer or Soldier ſhall make, procure, or wittingly produce a falſe certificate or Oath concerning his ſervice or arrears in the ſtating thereof as aforeſaid, to the prejudice of the <hi>Commonwealth,</hi> upon diſcovery and due conviction thereof, every ſuch offender ſhall not only forfeit all his arrears (if any remain due to him at the time of the diſcovery) but ſhall alſo be lyable to impriſonment and ſequeſtration of his Eſtate, to the uſe of the Commonwealth. Provided alſo, That the accompts for the Officers and Soldi<g ref="char:EOLhyphen"/>ers of ſuch Forces as are now in Gariſon, and were not part of the marching Army in the ſaid new Model; and alſo the accompts of ſuch other Forces not in Gariſon, as were raiſed and im<g ref="char:EOLhyphen"/>ployed by any Committee, for the ſervice of par<g ref="char:EOLhyphen"/>ticular Counties, and not taken into the general Eſtabliſhment before the fifteenth of <hi>January, 1647.</hi> ſhall (for their ſervice before their taking into the general Eſtabliſhment) be audited, ſtated and certified as aforeſaid, by the Committees of the ſeveral counties wherein ſuch Gariſons lie, or for the ſervice whereof ſuch Forces were firſt raiſed reſpectively, as by the Parliament hath been formerly appointed, and not by their Offi<g ref="char:EOLhyphen"/>cers,
+<pb n="272" facs="tcp:119861:7"/>
+               <!-- PDF PAGE 85 -->as in this Act is provided, except ſuch of the ſaid Forces as are now appointed and do en<g ref="char:EOLhyphen"/>gage for <hi>Ireland,</hi> whoſe accompts ſhall be ſtated and certified by their reſpective Officers as be<g ref="char:EOLhyphen"/>fore in this Act is directed. Provided alſo, That no accompts of any the Forces aforeſaid with<g ref="char:EOLhyphen"/>in the eſtabliſhment made in the year <hi>1647.</hi> for any arrears growing due ſince the <hi>15<hi rend="sup">th</hi>
+               </hi> of <hi>January, 1647.</hi> or ſince their taking into the ſaid eſta<g ref="char:EOLhyphen"/>bliſhment, ſhall be otherwiſe ſtated or certi<g ref="char:EOLhyphen"/>fied then by the Committee for the Army, or ſuch as they ſhall intruſt and imploy, who are like<g ref="char:EOLhyphen"/>wiſe to ſtate all accompts, and certifie all ar<g ref="char:EOLhyphen"/>rears for Service within the ſaid new Model before the ſaid Fifteenth of <hi>January,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred forty ſeven.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Lunae,</hi> 28 <hi>Maii,</hi> 1649.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric' Parliament'</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
